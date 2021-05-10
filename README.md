@@ -16,11 +16,11 @@ const glayson = {
   developer = 'Backend'
   code: [
     Javascript, 
-    Typescript, 
+    Typescript,    
+    Python,
+    Java,
     HTML, 
     CSS, 
-    Python,
-    Java
   ],
   toolsAndFrameworks: [React, React Native, Redux, Node, Django, Styled-Components, Django Rest Framework],
   architecture: ["Model-view-controller", "microserviços", "design patterns"],    
