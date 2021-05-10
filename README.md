@@ -1,11 +1,25 @@
-# Olá! Seja bem vindo(a) ao meu perfil do Github!
+# Olá! Seja bem vindo(a)! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Glaysonvisgueira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/glayson-visgueira-7433a61b3/)
+[![GitHub Glayson](https://img.shields.io/github/followers/glaysonvisgueira?label=follow&style=social)](https://github.com/glaysonvisgueira)
+
 
 Acesse minha página no [Github Pages!](https://glaysonvisgueira.github.io/)
 ***
+
+```javascript
+const glayson = {
+  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  tools: [React, Redux, Node, Django, Styled-Components, Django Rest Framework, React Native],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
 Minhas skills:<br/>
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,5 +44,7 @@ Minhas skills:<br/>
 ![VSC Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
+
+## &#x1f4c8; Minhas estatísticas de uso no Github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaysonvisgueira&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
