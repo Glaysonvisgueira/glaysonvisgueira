@@ -22,7 +22,7 @@ const glayson = {
     HTML, 
     CSS, 
   ],
-  toolsAndFrameworks: [React, React Native, Redux, Node, Django, Styled-Components, Django Rest Framework],
+  toolsAndFrameworks: [NodeJS, React, React Native, Redux, Node, Django, Styled-Components, Django Rest Framework],
   architecture: ["Model-view-controller", "microserviços", "design patterns"],    
 }
 ```
