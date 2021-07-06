@@ -13,7 +13,7 @@ Página no Github Pages [Github Pages!](https://glaysonvisgueira.github.io/) **_
 ```javascript
 const glayson = {
   graduate = 'Sistemas de informação'
-  developer = 'Backend'
+  developer = 'Fullstack'
   code: [
     Javascript, 
     Typescript,    
@@ -22,8 +22,10 @@ const glayson = {
     HTML, 
     CSS, 
   ],
-  toolsAndFrameworks: [NodeJS, React, React Native, Redux, Node, Django, Styled-Components, Django Rest Framework],
-  architecture: ["Model-view-controller", "microserviços", "design patterns"],    
+  toolsAndFrameworks: [NodeJS, React, React Native, Redux, Node, Django, Django Rest Framework],
+  databaseExperience: [mongoDB, Firebase Realtime, SQlite],
+  architecture: ["Model-view-controller", "SPA", "design patterns"],  
+  cloud: [Amazon Web Services, Google Cloud, MongoDB Atlas]
 }
 ```
 
