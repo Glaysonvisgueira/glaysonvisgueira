@@ -22,10 +22,10 @@ const glayson = {
     HTML, 
     CSS, 
   ],
-  toolsAndFrameworks: [NodeJS, React, React Native, Redux, Node, Django, Django Rest Framework],
-  databaseExperience: [mongoDB, Firebase Realtime, SQlite],
+  toolsAndFrameworks: [NodeJS, React, React Native, Expo, Node.js, Django, Django Rest Framework],
+  databaseExperience: [mongoDB, Firebase Realtime-Database, Firestore, SQlite],
   architecture: ["Model-view-controller", "SPA", "design patterns"],  
-  cloud: [Amazon Web Services, Google Cloud, MongoDB Atlas]
+  cloud: [Amazon Web Services, Google Cloud Services, MongoDB Atlas]
 }
 ```
 
