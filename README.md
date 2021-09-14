@@ -7,7 +7,7 @@
 [![GitHub Glayson](https://img.shields.io/github/followers/glaysonvisgueira?label=follow&style=social)](https://github.com/glaysonvisgueira)
 
 
-Página no Github Pages [Github Pages!](https://glaysonvisgueira.github.io/) **_Em construção..._**
+Acesse minha página pessoal no [Github Pages!](https://glaysonvisgueira.github.io/)
 
 ## Tecnologias e ferramentas
 ```javascript
