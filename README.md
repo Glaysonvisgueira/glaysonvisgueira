@@ -7,26 +7,38 @@
 [![GitHub Glayson](https://img.shields.io/github/followers/glaysonvisgueira?label=follow&style=social)](https://github.com/glaysonvisgueira)
 
 
-Acesse: [glaysonvisgueira.github.io](https://glaysonvisgueira.github.io/)
+Acesse: [glaysonvisgueira.vercel.app](https://glaysonvisgueira.vercel.app/)
 
-## Tecnologias e ferramentas
+## Tecnologias, frameworks e ferramentas
 ```javascript
-const mySelf = {
-  graduate = 'Sistemas de informação'
-  developer = 'Fullstack'
-  code: [
-    Javascript, 
-    Typescript,    
-    Python,
-    Java,
-    HTML, 
-    CSS, 
-  ],
-  toolsAndFrameworks: [NodeJS, React, React Native, Expo, Node.js, Django, Django Rest Framework],
-  databaseExperience: [mongoDB, Firebase Realtime-Database, Firestore, SQlite],
-  architecture: ["Model-view-controller", "SPA", "design patterns"],  
-  cloud: [Amazon Web Services, Google Cloud Services, MongoDB Atlas]
-}
+const GlaysonVisgueira = {
+    graduate: 'Sistemas de informação',
+    typeDeveloper: ['Front end', 'Fullstack'],
+    programmingLanguages: [
+      'Javascript', 
+      'Typescript',    
+      'Python',
+      'Java',
+    ],
+    frontEndFrameworks: [
+      'Material UI', 
+      'Tailwind CSS', 
+      'Bootstrap',
+      'Bulma CSS',
+      'Chakra UI'
+    ],
+    uiLibrarys: ['Styled Components','ReactJS', 'React Native','Expo'],
+    frameworks: ['Python Django', 'Django REST', 'Next.JS','Flutter'],
+    backendSkills: ['Node.Js', 'Python'],
+    databases: [
+      'MongoDB', 
+      'Firebase', 
+      'Firestore', 
+      'SQlite', 
+      'PostgreeSQL'
+    ],
+    cloud: ['Amazon Web Services', 'Google Cloud Services', 'MongoDB Atlas']
+  }
 ```
 
 ## Minhas estatísticas de uso no Github
