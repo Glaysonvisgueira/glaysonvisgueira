@@ -6,7 +6,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/glayson_visgueira)](https://t.me/glayson_visgueira)
 [![GitHub Glayson](https://img.shields.io/github/followers/glaysonvisgueira?label=follow&style=social)](https://github.com/glaysonvisgueira)
 
-
 Acesse: [glaysonvisgueira.vercel.app](https://glaysonvisgueira.vercel.app/)
 
 ## Tecnologias, frameworks e ferramentas
