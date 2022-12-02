@@ -10,7 +10,7 @@ Acesse meu portifólio em forma de website: [glaysonvisgueira.vercel.app](https:
 
 ## Tecnologias, frameworks e ferramentas
 ```javascript
-const GlaysonVisgueira = {
+const mySelf = {
     graduate: 'Sistemas de informação',
     typeDeveloper: ['Front end', 'Fullstack'],
     programmingLanguages: [
@@ -21,13 +21,16 @@ const GlaysonVisgueira = {
     ],
     frontEndFrameworks: [
       'Material UI', 
+      'Native Base',
+      'Redis',
+      'Headless UI',
       'Tailwind CSS', 
       'Bootstrap',
       'Bulma CSS',
       'Chakra UI'
     ],
-    uiLibrarys: ['Styled Components','ReactJS', 'React Native','Expo'],
-    frameworks: ['Python Django', 'Django REST', 'Next.JS','Flutter'],
+    uiLibrarys: ['Styled Components','ReactJS','Expo','Stichs'],
+    frameworks: ['Python Django', 'Django REST', 'Next.JS','Flutter', 'React Native'],
     backendSkills: ['Node.Js', 'Python'],
     databases: [
       'MongoDB', 
