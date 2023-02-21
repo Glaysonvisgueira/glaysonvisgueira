@@ -6,7 +6,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/glayson_visgueira)](https://t.me/glayson_visgueira)
 [![GitHub Glayson](https://img.shields.io/github/followers/glaysonvisgueira?label=follow&style=social)](https://github.com/glaysonvisgueira)
 
-Acesse meu portifólio em forma de website: [glaysonvisgueira.vercel.app](https://glaysonvisgueira.vercel.app/)
+### Acesse meu web portfólio: [glaysonvisgueira.vercel.app](https://glaysonvisgueira.vercel.app/)
 
 ## Tecnologias, frameworks e ferramentas
 ```javascript
@@ -16,22 +16,19 @@ const mySelf = {
     programmingLanguages: [
       'Javascript', 
       'Typescript',    
-      'Python',
-      'Java',
+      'Python',      
     ],
     frontEndFrameworks: [
       'Material UI', 
-      'Native Base',
-      'Redis',
-      'Headless UI',
+      'Native Base',          
       'Tailwind CSS', 
       'Bootstrap',
-      'Bulma CSS',
-      'Chakra UI'
+      'Sveltekit',
+      'Solid js',
     ],
-    uiLibrarys: ['Styled Components','ReactJS','Expo','Stichs'],
-    frameworks: ['Python Django', 'Django REST', 'Next.JS','Flutter', 'React Native'],
-    backendSkills: ['Node.Js', 'Python'],
+    uiLibrarys: ['Styled Components','ReactJS', 'Knockout.js', 'Radix UI', 'Headless UI'],
+    frameworks: ['Python Django', 'Django REST', 'Next.JS', 'Flutter', 'React Native'],
+    backendSkills: ['Node.Js', 'Python Django'],
     databases: [
       'MongoDB', 
       'Firebase', 
