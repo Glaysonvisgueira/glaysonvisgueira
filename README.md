@@ -12,7 +12,7 @@
 ```javascript
 const mySelf = {
     graduate: 'Sistemas de informação',
-    typeDeveloper: ['Front end', 'Fullstack'],
+    typeDeveloper: ['Frontend', 'Fullstack'],
     programmingLanguages: [
       'Javascript', 
       'Typescript',    
@@ -22,21 +22,12 @@ const mySelf = {
       'Material UI', 
       'Native Base',          
       'Tailwind CSS', 
-      'Bootstrap',
-      'Sveltekit',
-      'Solid js',
+      'Bootstrap'  
     ],
-    uiLibrarys: ['Styled Components','ReactJS', 'Knockout.js', 'Radix UI', 'Headless UI'],
-    frameworks: ['Python Django', 'Django REST', 'Next.JS', 'Flutter', 'React Native'],
-    backendSkills: ['Node.Js', 'Python Django'],
-    databases: [
-      'MongoDB', 
-      'Firebase', 
-      'Firestore', 
-      'SQlite', 
-      'PostgreeSQL'
-    ],
-    cloud: ['Amazon Web Services', 'Google Cloud Services', 'MongoDB Atlas']
+    uiLibrarys: ['Styled Components','ReactJS', 'Knockout.js', 'Radix UI', 'Tailwind'],
+    frameworks: ['Python Django', 'Django REST', 'Next.JS', 'React Native', 'Sveltekit'],
+    backendSkills: ['Node.Js', 'Python Django'],   
+    cloudDatabases: ['Amazon Web Services', 'Google Cloud Services', 'MongoDB Atlas', 'Firestore']
   }
 ```
 
